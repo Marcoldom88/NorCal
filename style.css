@@ -1,0 +1,23 @@
+img{
+
+  position: relative;
+  float: left;
+  margin-bottom: 50px;
+  margin-right: 20px;
+  width: 150px;
+}
+
+.header{
+  height: 180px;
+}
+
+.subcontent{
+  margin-left: 180px;
+  width: 800px;
+}
+
+.menu{
+  border-left: 3px #729fcf solid;
+  border-right: 3px #729fcf solid;
+  padding: 5px;
+}
