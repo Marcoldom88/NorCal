@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.page {
+  margin: 0 auto;
+}
+
+.logo{
+  position: relative;
+  float: right;
+  margin-right: 150px;
+  z-index: 1;
+  width: 150px;
+  border: solid 2px #4472c4;
+}
+
+.header{
+  margin: 0 auto;
+  width: 1300px;
+  height: 500px;
+  background-image: url("../images/alternative_image.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.subcontent{
+  margin-left: 250px;
+  width: 800px;
+}
+
+ul{
+  list-style: none;
+}
+
+h2{
+  background-color: #4472c4;
+  color: white;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 2EM;
+}
+nav{
+  margin-left: 50px;
+  margin-top: 50px;
+  font-weight: bolder;
+}
+h1{
+  font-size: 3.5EM;
+}

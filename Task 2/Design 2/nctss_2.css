@@ -1,0 +1,58 @@
+
+.logo{
+  position: relative;
+  float: left;
+  margin-top: 25px;
+  margin-left: 25px;
+  width: 150px;
+  border: solid 2px #4472c4;
+}
+
+.header-picture{
+  margin: 0 auto;
+}
+
+.subcontent{
+  margin-left: 250px;
+  margin-top: 30px;
+  width: 800px;
+}
+
+nav{
+  margin: 15px, 25px, 40px, 0px;
+  font-weight: normal;
+  float: right;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav li{
+  display: inline;
+  padding: 10px;
+  margin: 3px;
+  background-color: #4472c4;
+  color: white;
+}
+
+nav li a{
+  text-decoration: none;
+  color: white;
+}
+
+.current {
+  background-color: #00b050;
+}
+
+h2{
+  margin: 0 auto;
+  text-align: center;
+  font-size: 2EM;
+  border: solid 2px black;
+}
+
+h1{
+  font-size: 4EM;
+  margin: 15px;
+}
